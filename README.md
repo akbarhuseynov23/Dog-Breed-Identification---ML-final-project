@@ -10,7 +10,7 @@ Several times I saw a dog and didn't know the breed of it. Also I wanted to go d
 
 # Dataset
 
-For this project, I used the dataset from the Kaggle competition: Dog Breed Identification. The dataset consist of 2 subsets: train and test. Train subset also includes the "labels" as a separate part of it. Both subsets have more than 10000 images for training purposes.
+For this project, I used the dataset from the Kaggle competition: Dog Breed Identification. The dataset consist of 2 subsets: train and test. Train subset also includes the "labels" as a separate part of it. Both subsets have more than 10000 images for training purposes and overall there are 120 dog breeds.
 
 
 # Model
