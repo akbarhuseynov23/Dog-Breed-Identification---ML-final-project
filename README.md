@@ -1,4 +1,4 @@
-# Dog-Breed-Recognition---ML-project-
+# Dog-Breed-Identification---ML-project-
 
 In this Machine Learning project, I developed a model, which would recognize dog breeds. Below, I provide more detailed information about it.
 
