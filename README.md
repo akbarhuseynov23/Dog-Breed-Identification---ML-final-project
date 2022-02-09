@@ -20,6 +20,6 @@ To build neural network model I used InceptionV3 - a Keras image classification 
 
 # Findings
 
-The accuracy of the model reaches 90%, which means that with fine tuning the parameters, the model can be developped further. This model is also deployed in an Streamlit app.
+The accuracy of the model reaches 90%, which means that with fine tuning the parameters, the model can be developped further. This model is also deployed in an Streamlit app: https://share.streamlit.io/akbarhuseynov23/dog-breed-recognition---ml-final-project/main/dog_breeds.py
 
 Source: https://www.intel.com/content/www/us/en/develop/articles/inception-v3-deep-convolutional-architecture-for-classifying-acute-myeloidlymphoblastic.html
